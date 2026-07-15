@@ -14,7 +14,7 @@ TryHackMe
 
 ## Credential
 
-📄 [View Certificate (PDF)](tryhackme-pre-security.pdf)
+📄 [View Certificate (PDF)](assets/tryhackme-pre-security.pdf)
 
 ---
 
