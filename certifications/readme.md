@@ -12,7 +12,7 @@ Rather than simply listing what I've earned, each credential includes an overvie
 
 Professional certifications that validate technical knowledge and competency.
 
-- ✅ CompTIA Security+(security-plus.md)
+- ✅ [CompTIA Security+](security-plus.md)
 
 ---
 
@@ -20,7 +20,7 @@ Professional certifications that validate technical knowledge and competency.
 
 Structured educational programs that demonstrate continued learning and technical development.
 
-- ✅ Google Cybersecurity Professional Certificate(google-cybersecurity-professional-certificate.md)
+- ✅ [Google Cybersecurity Professional Certificate](google-cybersecurity-professional-certificate.md)
 
 ---
 
@@ -28,8 +28,8 @@ Structured educational programs that demonstrate continued learning and technica
 
 Hands-on learning completed through technical platforms and guided learning paths.
 
-- ✅ TryHackMe – Cyber Security 101(tryhackme-cyber-security-101.md)
-- ✅ TryHackMe – Pre Security(tryhackme-pre-security.md)
+- ✅ [TryHackMe – Cyber Security 101](tryhackme-cyber-security-101.md)
+- ✅ [TryHackMe – Pre Security](tryhackme-pre-security.md)
 
 ---
 
