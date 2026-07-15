@@ -41,13 +41,13 @@ Completing this learning path strengthened my understanding of the technical fou
 
 ## 🔗 Related Repository Sections
 
-- 💻 Information Technology
-- 🛡️ Cybersecurity
+- 💻 [Information Technology](../information-technology/readme.md)
+- 🛡️ [Cybersecurity](../cybersecurity/readme.md)
 
 ---
 
 ## 🔙 Continue Exploring
 
-- 🏆 Certifications
-- 🗺️ Learning Roadmap
-- 👋 About Me
+- 🏆 [Certifications](../certifications/readme.md)
+- 🗺️ [Learning Roadmap](../learning-roadmap/readme.md)
+- 👋 [About Me](../about/readme.md)
