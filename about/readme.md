@@ -26,7 +26,7 @@ Rather than rushing through certifications or trying to learn everything at once
 
 I learn best by doing.
 
-Reading and watching videos are great starting points, but I retain information by building, troubleshooting, documenting, and sometimes breaking things along the way. Whether it's creating a virtual lab, working through a TryHackMe room, writing documentation, or researching why something behaves the way it does, I enjoy understanding both the "how" and the "why."
+I rarely feel like I've learned something until I've actually used it. Reading and videos help introduce a concept, but the real understanding comes when I build something, troubleshoot a problem, or explain it in my own words. That's one of the reasons this GitHub exists. Documenting what I've learned helps me organize my thoughts, reinforce what I've practiced, and gives me something I can come back to later.
 
 This repository reflects that learning style. Everything here exists because I've personally worked through it. If a topic appears in this repository, it's because I've taken the time to study it, practice it, or build something with it. My goal isn't to create the largest portfolio. It's to create one that's honest, organized, and genuinely reflects my growth.
 
