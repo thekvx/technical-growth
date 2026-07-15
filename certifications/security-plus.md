@@ -14,7 +14,7 @@ CompTIA
 
 ## Credential
 
-📄 [View Certificate (PDF)](comptia-security-plus.pdf)
+📄 [View Certificate (PDF)](assets/comptia-security-plus.pdf)
 
 ---
 
