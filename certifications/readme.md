@@ -47,7 +47,7 @@ As I continue learning, this section will be updated to reflect my current certi
 
 ## 🔗 Continue Exploring
 
-- 👋 About Me
-- 🗺️ Learning Roadmap
-- 💻 Information Technology
-- 🛡️ Cybersecurity
+- 👋 [About Me](../about/readme.md)
+- 🗺️ [Learning Roadmap](../learning-roadmap/readme.md)
+- 💻 [Information Technology](../information-technology/readme.md) 
+- 🛡️ [Cybersecurity](../cybersecurity/readme.md)
