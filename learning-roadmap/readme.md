@@ -81,6 +81,6 @@ This roadmap isn't a checklist to complete. It's a reflection of the direction I
 ## 🔗 Continue Exploring
 
 - 👋 [About Me](../about/readme.md)
-- 🏆 Certifications
-- 💻 Information Technology
-- 🛡️ Cybersecurity
+- 🏆 [Certifications](../certifications/readme.md)
+- 💻 [Information Technology](../information-technology/readme.md) 
+- 🛡️ [Cybersecurity](../cybersecurity/readme.md)
