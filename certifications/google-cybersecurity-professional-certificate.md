@@ -14,7 +14,7 @@ Google
 
 ## Credential
 
-📄 [View Certificate (PDF)](google-cybersecurity-professional-certificate.pdf)
+📄 [View Certificate (PDF)](assets/google-cybersecurity-professional-certificate.pdf)
 
 ---
 
