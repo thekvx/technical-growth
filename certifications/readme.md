@@ -29,6 +29,7 @@ Structured educational programs that demonstrate continued learning and technica
 Hands-on learning completed through technical platforms and guided learning paths.
 
 - ✅ TryHackMe – Cyber Security 101
+- ✅ TryHackMe – Pre Security
 
 ---
 
