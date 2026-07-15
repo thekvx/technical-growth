@@ -63,7 +63,7 @@ One thing I've learned over the years is that growth doesn't happen overnight. W
 
 ## 🔗 Continue Exploring
 
-- 🏆 Certifications
-- 🗺️ Learning Roadmap
-- 💻 Information Technology
-- 🛡️ Cybersecurity
+- 🏆 [Certifications](../certifications/readme.md)
+- 🗺️ [Learning Roadmap](../learning-roadmap/readme.md)
+- 💻 [Information Technology](../information-technology/readme.md) 
+- 🛡️ [Cybersecurity](../cybersecurity/readme.md)
