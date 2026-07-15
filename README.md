@@ -2,7 +2,7 @@
 
 Welcome!
 
-I'm Nick Early, and this repository documents my growth in Information Technology and Cybersecurity through structured learning, hands-on practice, and personal projects.
+I'm Nickalos Early, and this repository documents my growth in Information Technology and Cybersecurity through structured learning, hands-on practice, and personal projects.
 
 Everything you'll find here reflects work I've personally completed, studied, or documented. Rather than trying to showcase everything, I focus on building a strong foundation and expanding it over time.
 
