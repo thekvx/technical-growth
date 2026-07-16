@@ -8,7 +8,7 @@ This section documents the security operations concepts I've studied, the practi
 
 # 📚 Areas of Study
 
-### 👀 Security Monitoring
+### 👀 [Security Monitoring](security-monitoring/readme.md)
 
 Learning how organizations monitor systems, review alerts, and identify activity that may require investigation.
 
