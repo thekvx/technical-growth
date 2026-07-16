@@ -8,31 +8,31 @@ This section documents the security tools I've studied, the practical skills I'm
 
 # 📚 Areas of Study
 
-### 📊 Security Information & Event Management
+### 📊 [Security Information & Event Management](security-information-event-management/readme.md)
 
 Building practical experience with SIEM platforms such as Splunk to search logs, review events, create dashboards, and better understand how security teams monitor activity.
 
 ---
 
-### 🌐 Network Analysis
+### 🌐 [Network Analysis](network-analysis/readme.md)
 
 Learning how tools such as Wireshark and tcpdump provide visibility into network traffic and support troubleshooting, investigation, and security analysis.
 
 ---
 
-### 🔍 System & Network Discovery
+### 🔍 [System & Network Discovery](system-network-discovery/readme.md)
 
 Developing familiarity with tools such as Nmap to identify systems, services, ports, and other information that can help build a clearer understanding of an environment.
 
 ---
 
-### 🧪 Security Testing
+### 🧪 [Security Testing](security-testing/readme.md)
 
 Exploring tools used in guided labs to better understand common weaknesses, attack methods, and the defensive controls used to reduce risk.
 
 ---
 
-### 📝 Analysis & Documentation
+### 📝 [Analysis & Documentation](analysis-documentation/readme.md)
 
 Practicing how to interpret tool output, record findings, and explain what the available evidence shows without relying on the tool alone to provide the answer.
 
