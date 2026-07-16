@@ -48,23 +48,23 @@ This section isn't intended to be a guide to IT support. Instead, it documents t
 
 ## 🔗 Related Repository Sections
 
-- 💻 [Information Technology](../README.md)
+- 💻 [Information Technology](../readme.md)
 
 ---
 
 ## 📂 Related Topics
 
-- 🪟 [Operating Systems](../operating-systems/README.md)
-- 🌐 [Networking](../networking/README.md)
-- 🖥️ [Hardware](../hardware/README.md)
-- ☁️ [Microsoft 365](../microsoft-365/README.md)
-- 👥 [Active Directory](../active-directory/README.md)
+- 🪟 [Operating Systems](../operating-systems/readme.md)
+- 🌐 [Networking](../networking/readme.md)
+- 🖥️ [Hardware](../hardware/readme.md)
+- ☁️ [Microsoft 365](../microsoft-365/readme.md)
+- 👥 [Active Directory](../active-directory/readme.md)
 
 ---
 
 ## 🔙 Continue Exploring
 
-- 👋 [About Me](../../about/README.md)
-- 🏆 [Certifications](../../certifications/README.md)
-- 🗺️ [Learning Roadmap](../../learning-roadmap/README.md)
-- 🛡️ [Cybersecurity](../../cybersecurity/README.md)
+- 👋 [About Me](../../about/readme.md)
+- 🏆 [Certifications](../../certifications/readme.md)
+- 🗺️ [Learning Roadmap](../../learning-roadmap/readme.md)
+- 🛡️ [Cybersecurity](../../cybersecurity/readme.md)
