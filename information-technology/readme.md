@@ -1,6 +1,6 @@
 # 💻 Information Technology
 
-Information Technology provides the foundation that my cybersecurity studies are built upon. Before systems can be secured, they first need to be understood. My goal isn't to become an expert in every area of IT, but to build a solid understanding of the technologies that support modern cybersecurity.
+Information Technology provides the foundation that my cybersecurity studies are built upon. Before systems can be secured, they first need to be understood. My goal isn't to become an expert in every area of IT, but to build a solid understanding of the technologies, tools, and support skills that modern cybersecurity depends on.
 
 This section documents the topics I've studied, the skills I've practiced, and the projects I've completed as I continue building that foundation. Everything included here reflects concepts I've personally learned through study, hands-on practice, home labs, or technical documentation.
 
@@ -35,6 +35,12 @@ Learning the Microsoft 365 ecosystem, user administration, collaboration tools, 
 ### 👥 Active Directory
 
 Building an understanding of Active Directory concepts including users, groups, organizational units, authentication, permissions, and basic administration through lab environments and practical exercises.
+
+---
+
+### 🛠️ IT Support
+
+Developing the practical skills needed to support users and business environments through troubleshooting, technical communication, documentation, and structured problem-solving. This section reflects both my previous professional experience and the knowledge I'm continuing to build as I prepare for a career in Information Technology.
 
 ---
 
