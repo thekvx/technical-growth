@@ -14,25 +14,25 @@ Learning how organizations monitor systems, review alerts, and identify activity
 
 ---
 
-### 🚨 Alert Triage
+### 🚨 [Alert Triage](alert-triage/readme.md)
 
 Building an understanding of how security alerts are prioritized, investigated, documented, and escalated when appropriate.
 
 ---
 
-### 📄 Investigation & Documentation
+### 📄 [Investigation & Documentation](investigation-documentation/readme.md)
 
 Developing structured approaches to documenting findings, communicating observations, and maintaining clear records throughout the investigation process.
 
 ---
 
-### 🛡️ Defensive Security
+### 🛡️ [Defensive Security](defensive-security/readme.md)
 
 Learning how layered security controls, security best practices, and defensive strategies work together to reduce organizational risk.
 
 ---
 
-### 📈 Continuous Improvement
+### 📈 [Continuous Improvement](continuous-improvement/readme.md)
 
 Building the habit of reviewing investigations, identifying lessons learned, and continuously improving both technical knowledge and defensive practices.
 
