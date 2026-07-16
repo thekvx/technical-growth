@@ -8,7 +8,7 @@ This section documents the cybersecurity concepts I've studied, the practical sk
 
 # 📚 Areas of Study
 
-### 🛡️ [Security Operations](sercurity-operations/readme.md)
+### 🛡️ [Security Operations](security-operations/readme.md)
 
 Learning the day-to-day responsibilities of defending systems, monitoring security events, documenting findings, and supporting security operations within an organization.
 
