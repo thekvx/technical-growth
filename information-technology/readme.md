@@ -8,37 +8,37 @@ This section documents the topics I've studied, the skills I've practiced, and t
 
 # 🖥️ Areas of Study
 
-### 🪟 Operating Systems
+### 🪟 [Operating Systems](operating-systems/readme.md)
 
 Learning how Windows and Linux systems function, including operating system fundamentals, command-line tools, file systems, permissions, and troubleshooting.
 
 ---
 
-### 🌐 Networking
+### 🌐 [Networking](networking/readme.md)
 
 Building a strong understanding of networking concepts, protocols, and troubleshooting. This section follows my continued Network+ studies while expanding into practical networking skills that support cybersecurity.
 
 ---
 
-### 🖥️ Hardware
+### 🖥️ [Hardware](hardware/readme.md)
 
 Developing foundational knowledge of computer hardware, components, peripherals, device maintenance, and troubleshooting through hands-on learning and CompTIA A+ studies.
 
 ---
 
-### ☁️ Microsoft 365
+### ☁️ [Microsoft 365](microsoft-365/readme.md)
 
 Learning the Microsoft 365 ecosystem, user administration, collaboration tools, and cloud services commonly used in modern business environments.
 
 ---
 
-### 👥 Active Directory
+### 👥 [Active Directory](active-directory/readme.md)
 
 Building an understanding of Active Directory concepts including users, groups, organizational units, authentication, permissions, and basic administration through lab environments and practical exercises.
 
 ---
 
-### 🛠️ IT Support
+### 🛠️ [IT Support](it-support/readme.md)
 
 Developing the practical skills needed to support users and business environments through troubleshooting, technical communication, documentation, and structured problem-solving. This section reflects both my previous professional experience and the knowledge I'm continuing to build as I prepare for a career in Information Technology.
 
