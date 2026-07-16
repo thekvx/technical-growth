@@ -38,7 +38,7 @@ Building practical experience with the security tools used to analyze systems, i
 
 ---
 
-### 📂 Projects
+### 📂 [Projects](projects/readme.md)
 
 A collection of cybersecurity projects, labs, and practical exercises that demonstrate the concepts I've studied and the skills I've developed through hands-on practice.
 
