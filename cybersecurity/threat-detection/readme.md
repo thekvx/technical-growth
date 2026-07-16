@@ -8,31 +8,31 @@ This section documents the threat detection concepts I've studied, the practical
 
 # 📚 Areas of Study
 
-### 📊 Log Analysis
+### 📊 [Log Analysis](log-analysis/readme.md)
 
 Learning how logs provide visibility into system activity and how they can be used to identify unusual behavior and support security investigations.
 
 ---
 
-### 🚩 Indicators of Compromise (IOCs)
+### 🚩 [Indicators of Compromise (IOCs)](indicators-of-compromise/readme.md)
 
 Building an understanding of common indicators that suggest malicious activity, including suspicious files, IP addresses, domains, hashes, and user behavior.
 
 ---
 
-### 🧠 Threat Intelligence
+### 🧠 [Threat Intelligence](threat-intelligence/readme.md)
 
 Learning how publicly available and organizational threat intelligence can provide context for detecting and understanding emerging threats.
 
 ---
 
-### 🔍 Security Analysis
+### 🔍 [Security Analysis](security-analysis/readme.md)
 
 Developing the ability to review alerts, examine available evidence, recognize suspicious patterns, and determine when additional investigation is needed.
 
 ---
 
-### 📈 Continuous Improvement
+### 📈 [Continuous Improvement](continuous-improvement/readme.md)
 
 Building stronger analytical skills by reviewing detection methods, understanding missed opportunities, and continuously improving the ability to recognize suspicious activity.
 
