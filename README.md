@@ -1,75 +1,77 @@
-# Technical Growth
+# 🚀 Technical Growth
 
-Welcome!
+This repository documents my ongoing journey through Information Technology and Cybersecurity. Rather than serving as a collection of notes or completed coursework, it's designed to show how my knowledge continues to grow through certification studies, hands-on labs, technical documentation, and personal projects.
 
-I'm Nickalos Early, and this repository documents my growth in Information Technology and Cybersecurity through structured learning, hands-on practice, and personal projects.
-
-Everything you'll find here reflects work I've personally completed, studied, or documented. Rather than trying to showcase everything, I focus on building a strong foundation and expanding it over time.
+Every section reflects concepts I've personally studied, practiced, or explored. As I continue learning, this repository will grow alongside my experience.
 
 ---
 
 ## 👋 About
 
-Learn more about my background, current goals, and what brought me into IT and Cybersecurity.
+Learn more about my background, career transition into Information Technology and Cybersecurity, learning philosophy, and long-term goals.
 
-➡️ *Coming Soon*
+➡️ **[View About](about/readme.md)**
 
 ---
 
 ## 🏆 Certifications
 
-Track the certifications I've earned, what I'm currently studying, and the knowledge I've gained along the way.
+A collection of the professional certifications and educational certificates I've earned, along with my current certification goals.
 
-➡️ *Coming Soon*
+**Included Sections**
+
+- 📜 Professional Certifications
+- 🎓 Educational Certificates
+- 🎯 Current Certification Pursuits
+
+➡️ **[View Certifications](certifications/readme.md)**
 
 ---
 
 ## 🗺️ Learning Roadmap
 
-My learning journey is always evolving. This roadmap outlines where I've been, what I'm focused on today, and where I'm headed next.
+An overview of my current areas of study, long-term goals, and the technologies I'm actively working toward as I continue building my technical foundation.
 
-➡️ *Coming Soon*
+➡️ **[View Learning Roadmap](learning-roadmap/readme.md)**
 
 ---
 
 ## 💻 Information Technology
 
-Explore the IT topics I've studied, practiced, and documented.
+Building a strong foundation in Information Technology through certification studies, labs, and continued hands-on learning.
 
-Topics will include:
+**Included Sections**
 
-- Windows
-- Linux
-- Networking
-- Active Directory
-- Microsoft 365
-- Hardware
-- Troubleshooting
-- Projects
-- Resources
+- 🪟 Operating Systems
+- 🌐 Networking
+- 🖥️ Hardware
+- ☁️ Microsoft 365
+- 👥 Active Directory
+- 🛠️ IT Support
 
-➡️ *Coming Soon*
+➡️ **[View Information Technology](information-technology/readme.md)**
 
 ---
 
 ## 🛡️ Cybersecurity
 
-Explore the cybersecurity topics I've studied and continue to build upon.
+Developing practical cybersecurity knowledge through defensive security concepts, technical tools, labs, and project-based learning.
 
-Topics will include:
+**Included Sections**
 
-- Security Fundamentals
-- SIEM
-- Incident Response
-- DFIR
-- Threat Intelligence
-- MITRE ATT&CK
-- Identity Security
-- Projects
-- Resources
+- 🛡️ Security Operations
+- 🎯 Threat Detection
+- 🚨 Incident Response
+- 🔐 Identity Security
+- 🧰 Security Tools
+- 📂 Projects
 
-➡️ *Coming Soon*
+➡️ **[View Cybersecurity](cybersecurity/readme.md)**
 
 ---
 
-Thank you for visiting!
+## 📈 Repository Status
+
+This repository is an active learning portfolio and will continue to grow as I complete certifications, build new projects, and expand my knowledge across Information Technology and Cybersecurity.
+
+Thank you for taking the time to explore my work.
