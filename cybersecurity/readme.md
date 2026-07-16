@@ -38,6 +38,12 @@ Building practical experience with the security tools used to analyze systems, i
 
 ---
 
+### 📂 Projects
+
+A collection of cybersecurity projects, labs, and practical exercises that demonstrate the concepts I've studied and the skills I've developed through hands-on practice.
+
+---
+
 # 💡 Learning Philosophy
 
 Cybersecurity isn't just about stopping attacks. It's about understanding how technology, people, and processes work together to reduce risk and respond effectively when incidents occur. As I continue learning, I focus on building practical knowledge through hands-on labs, technical documentation, and continual study.
@@ -59,6 +65,7 @@ This section isn't intended to be a complete cybersecurity reference. Instead, i
 - 🚨 [Incident Response](incident-response/readme.md)
 - 🔐 [Identity Security](identity-security/readme.md)
 - 🧰 [Security Tools](security-tools/readme.md)
+- 📂 [Projects](projects/readme.md)
 
 ---
 
