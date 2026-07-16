@@ -8,31 +8,31 @@ This section documents the projects, labs, and technical exercises I've complete
 
 # 📚 Areas of Focus
 
-### 🧪 Hands-on Labs
+### 🧪 [Hands-on Labs](hands-on-labs/readme.md)
 
 Applying technical concepts through guided labs, virtual environments, and practical exercises designed to reinforce real-world skills.
 
 ---
 
-### 🖥️ Home Lab Projects
+### 🖥️ [Home Lab Projects](home-lab-projects/readme.md)
 
 Building and documenting personal lab environments to better understand operating systems, networking, security tools, and cybersecurity concepts.
 
 ---
 
-### 🛡️ Blue Team Exercises
+### 🛡️ [Blue Team Exercises](blue-team-exercises/readme.md)
 
 Completing defensive security exercises that strengthen my understanding of monitoring, investigation, detection, and incident response.
 
 ---
 
-### 📖 Technical Documentation
+### 📖 [Technical Documentation](technial-documentation/readme.md)
 
 Creating write-ups that document projects, lessons learned, troubleshooting steps, and the knowledge gained throughout each exercise.
 
 ---
 
-### 📈 Continuous Growth
+### 📈 [Continuous Growth](continuous-growth/readme.md)
 
 Viewing every completed project as another opportunity to improve technical knowledge, strengthen problem-solving skills, and build practical experience that supports my long-term career goals.
 
