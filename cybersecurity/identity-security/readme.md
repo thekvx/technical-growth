@@ -8,31 +8,31 @@ This section documents the identity security concepts I've studied, the practica
 
 # 📚 Areas of Study
 
-### 👤 Identity Management
+### 👤 [Identity Management](identity-management/readme.md)
 
 Learning how organizations manage user identities throughout their lifecycle while maintaining secure and organized access to systems and resources.
 
 ---
 
-### 🔑 Authentication
+### 🔑 [Authentication](authentication/readme.md)
 
 Building an understanding of authentication methods including passwords, multi-factor authentication (MFA), and other techniques used to verify user identities.
 
 ---
 
-### 🛡️ Authorization & Access Control
+### 🛡️ [Authorization & Access Control](authorization-access-control/readme.md)
 
 Developing an understanding of permissions, roles, least privilege, and access control models that help protect organizational resources.
 
 ---
 
-### ☁️ Cloud Identity
+### ☁️ [Cloud Identity](cloud-identity/readme.md)
 
 Learning how identity services support cloud environments and how centralized identity management contributes to modern Information Technology and Cybersecurity.
 
 ---
 
-### 📈 Continuous Improvement
+### 📈 [Continuous Improvement](continuous-improvement/readme.md)
 
 Continuing to strengthen my understanding of identity security by studying current best practices, evolving technologies, and the role identity plays in reducing organizational risk.
 
